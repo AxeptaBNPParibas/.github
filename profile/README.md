@@ -1,6 +1,7 @@
 # Welcome to Axepta by BNP Paribas github space 👋
 
-<img width="475" height="133" alt="Axepta" src="https://github.com/user-attachments/assets/a2da0081-dbc0-4706-b617-31a233de2b41" /> 
+<img width="475" height="133" alt="Axepta" src="https://github.com/user-attachments/assets/a2da0081-dbc0-4706-b617-31a233de2b41" />
+
 [Axepta offer homepage](https://axepta.bnpparibas/)
 
 This page contains the source code for all of our libraries, SDKs and plug-ins as well as link to our Open API specifications. 

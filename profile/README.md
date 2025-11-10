@@ -1,18 +1,33 @@
-# Welcome to Axepta by BNP Paribas github space 👋
+# 👋 Welcome to Axepta BNP Paribas GitHub Space
 
-![Axepta](https://github.com/user-attachments/assets/958b5895-bdf5-4f98-9d6f-d1c7bd30189d)<br>
-[Axepta offer homepage](https://axepta.bnpparibas/)
+![Axepta](https://github.com/user-attachments/assets/958b5895-bdf5-4f98-9d6f-d1c7bd30189d)  
+[Visit our homepage →](https://axepta.bnpparibas/)
 
-This page contains the source code for all of our libraries, SDKs and plug-ins as well as link to our Open API specifications. 
+## About
 
-development usefull resources:
-* [Axepta Online API](https://axeptabnpparibas-docs.redocly.app/)
-* [Test means](https://docs.axepta.bnpparibas/display/DOCBNP/Test+Cards+-+Authentication)
+Axepta BNP Paribas provides secure and flexible payment solutions for businesses.  
+This GitHub organization hosts SDKs, plug-ins, and API tools to help developers integrate Axepta payment services into their e-commerce platforms.
 
-Code resources
-* Magento2
-* Prestashop
-* [PHP Librabry](https://github.com/AxeptaBNPParibas/AxeptaOnline-PHP-Library)
+## Developer Resources
+
+Find below the main documentation and testing tools for integrating Axepta solutions:
+
+- 🧩 [Axepta Online API Documentation](https://axeptabnpparibas-docs.redocly.app/) — Detailed API reference and integration guide.  
+- 💳 [Test Cards & Authentication](https://docs.axepta.bnpparibas/display/DOCBNP/Test+Cards+-+Authentication) — Resources for testing payment flows in sandbox mode.
+
+## Code Resources
+
+Explore our official SDKs and plug-ins for popular e-commerce platforms:
+
+- 🛍️ [Magento 2 Plug-in](https://github.com/AxeptaBNPParibas/magento2) — Integration with Magento 2 checkout.  
+- 🧾 [PrestaShop Plug-in](https://github.com/AxeptaBNPParibas/prestashop) — Enable Axepta payments on PrestaShop stores.  
+- 🌐 [WordPress / WooCommerce Plug-in](https://github.com/AxeptaBNPParibas/woocommerce) — Integration for WooCommerce-based websites.  
+- 💻 [PHP Library](https://github.com/AxeptaBNPParibas/AxeptaOnline-PHP-Library) — PHP SDK to simplify Axepta API integration.
+
+## Support
+
+For technical or integration-related questions, please contact our developer support team at  
+📧 [support@axepta.bnpparibas](mailto:support@axepta.bnpparibas)
 
 <!--
 **Here are some ideas to get you started:**

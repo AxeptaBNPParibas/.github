@@ -38,7 +38,7 @@ Explore our official SDKs and plug-ins for popular e-commerce platforms:
 ## Support
 
 For technical or integration-related questions, please contact our developer support team at  
-📧 [support@axepta.bnpparibas](mailto:support@axepta.bnpparibas)
+📧 [assistance.ecommerce@axepta.bnpparibas](mailto:assistance.ecommerce@axepta.bnpparibas)
 
 <!--
 **Here are some ideas to get you started:**

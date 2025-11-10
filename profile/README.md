@@ -1,6 +1,16 @@
 # 👋 Welcome to Axepta BNP Paribas GitHub Space
 
-![Axepta](https://github.com/user-attachments/assets/958b5895-bdf5-4f98-9d6f-d1c7bd30189d)  
+<picture>
+  <!-- Logo pour le mode sombre (fond foncé) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f7c8bc6e-a369-4b9f-bacc-97a0e7a6c446">
+  
+  <!-- Logo pour le mode clair (fond clair) -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/958b5895-bdf5-4f98-9d6f-d1c7bd30189d">
+  
+  <!-- Image par défaut (fallback = mode clair) -->
+  <img alt="Axepta BNP Paribas" src="https://github.com/user-attachments/assets/958b5895-bdf5-4f98-9d6f-d1c7bd30189d" width="400">
+</picture>
+
 [Visit our homepage →](https://axepta.bnpparibas/)
 
 ## About
@@ -9,6 +19,7 @@ Axepta BNP Paribas provides secure and flexible payment solutions for businesses
 This GitHub organization hosts SDKs, plug-ins, and API tools to help developers integrate Axepta payment services into their e-commerce platforms.
 
 ## Developer Resources
+
 
 Find below the main documentation and testing tools for integrating Axepta solutions:
 

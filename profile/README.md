@@ -30,9 +30,9 @@ Find below the main documentation and testing tools for integrating Axepta solut
 
 Explore our official SDKs and plug-ins for popular e-commerce platforms:
 
-- 🛍️ [Magento 2 Plug-in](https://github.com/AxeptaBNPParibas/magento2) 
-- 🧾 [PrestaShop Plug-in](https://github.com/AxeptaBNPParibas/prestashop)
-- 🌐 [WordPress / WooCommerce Plug-in](https://github.com/AxeptaBNPParibas/woocommerce) 
+- 🛍️ [Magento 2 Plug-in](https://github.com/AxeptaBNPParibas/AxeptaOnline-Magento2-plugin) 
+- 🧾 [PrestaShop Plug-in](https://github.com/AxeptaBNPParibas/AxeptaOnline-Prestashop-plugin)
+- 🌐 [WordPress / WooCommerce Plug-in](https://github.com/AxeptaBNPParibas/AxeptaOnline-WooCommerce-plugin) 
 
 ## Support
 

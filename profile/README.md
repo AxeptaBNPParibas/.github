@@ -30,10 +30,9 @@ Find below the main documentation and testing tools for integrating Axepta solut
 
 Explore our official SDKs and plug-ins for popular e-commerce platforms:
 
-- 🛍️ [Magento 2 Plug-in](https://github.com/AxeptaBNPParibas/magento2) — Integration with Magento 2 checkout.  
-- 🧾 [PrestaShop Plug-in](https://github.com/AxeptaBNPParibas/prestashop) — Enable Axepta payments on PrestaShop stores.  
-- 🌐 [WordPress / WooCommerce Plug-in](https://github.com/AxeptaBNPParibas/woocommerce) — Integration for WooCommerce-based websites.  
-- 💻 [PHP Library](https://github.com/AxeptaBNPParibas/AxeptaOnline-PHP-Library) — PHP SDK to simplify Axepta API integration.
+- 🛍️ [Magento 2 Plug-in](https://github.com/AxeptaBNPParibas/magento2) 
+- 🧾 [PrestaShop Plug-in](https://github.com/AxeptaBNPParibas/prestashop)
+- 🌐 [WordPress / WooCommerce Plug-in](https://github.com/AxeptaBNPParibas/woocommerce) 
 
 ## Support
 
